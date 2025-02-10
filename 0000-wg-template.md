@@ -9,7 +9,7 @@
 
 ## Description
 
-Describe what you are planning to accomplish in relation to the Manifesto.
+Describe what you are planning to accomplish in relation to the [Manifesto](https://github.com/polkadot-fellows/manifesto/blob/main/manifesto.pdf).
 
 Define the tasks you will be undertaking and how you will be measuring their impact.
 
