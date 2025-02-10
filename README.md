@@ -47,7 +47,7 @@ The Initial leader(s) will need to open a poll in the relevant Fellowship channe
 
 ![image](https://github.com/user-attachments/assets/019a2461-950c-428c-a98a-ad1b3d47602e)
 
-Should the Fellowship fail to approve a WG, the Initial leader(s) may chose to open a new poll at a later date or close the PR. PRs will also be closed when sufficiently stale, as well - after a period of 6 months without acceptance.
+Should the Fellowship fail to approve a WG, the Initial leader(s) may chose to open a new poll at a later date or close the PR. PRs will also be closed after a period of 6 months without acceptance.
 
 
 ## Recommendations
