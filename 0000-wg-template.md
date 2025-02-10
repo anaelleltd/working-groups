@@ -22,6 +22,6 @@ Mention any existing repos, docs, tutorials, project boards or platforms that yo
 
 
 
-## Social channels
-Mention any existing Element room or social channels that you are actively using.
+## Public channels
+Mention any existing Element room or discussion channels that you are actively using.
 
